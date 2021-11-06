@@ -5,7 +5,7 @@ A game made using purely C programming
 © William Cris Hod, Technological Univeristy of the Philippines Manila
 
 # Authors
-William Cris Hod - williamcris.hod@tup.edu.ph
-Vann Chezter Liza - vannchezter.lizan@tup.edu.ph
-Franco De Guzman - franco.deguzman@tup.edu.ph
-Austin Charles Burog -austin.charlesburog@tup.edu.ph
+William Cris Hod - williamcris.hod@tup.edu.ph <br>
+Vann Chezter Lizan - vannchezter.lizan@tup.edu.ph<br>
+Franco De Guzman - franco.deguzman@tup.edu.ph<br>
+Austin Charles Burog -austin.charlesburog@tup.edu.ph<br>
