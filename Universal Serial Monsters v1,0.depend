@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1574629913 source:c:\users\vann chezter\documents\codeblocks projects\universal serial monsters v1,0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<time.h>
+	<string.h>
+
+1574629839 source:c:\users\vann chezter\documents\codeblocks projects\universal serial monsters v1,0\resource\resource.rc
+
+1575186368 source:c:\users\william cris hod\music\universal serial monsters source\universal serial monsters v1,0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<time.h>
+	<string.h>
+
+1574820045 source:c:\users\william cris hod\music\universal serial monsters source\universal serial monsters v1,0\resource\resource.rc
+
+1583492645 source:c:\users\william cris hod\documents\programming\c programming\universal serial monsters source\universal serial monsters v1,0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_ttf.h>
+	<time.h>
+	<string.h>
+
+1574820045 source:c:\users\william cris hod\documents\programming\c programming\universal serial monsters source\universal serial monsters v1,0\resource\resource.rc
+
